@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#" alt="">Novo Projeto</a>
+    <a href="#" alt="">temp-app</a>
 </h1>
 
 <h4 align="center">
@@ -12,7 +12,6 @@
  <a href="#layout">Layout</a> • 
  <a href="#pré-requisitos">Pré-requisitos</a> •
  <a href="#rodando-o-projeto">Rodando o projeto</a> •
- <a href="#tecnologias">Tecnologias</a> •
  <a href="#anexos">Anexos</a>
 </p>
 
@@ -41,17 +40,8 @@ Deve ter instalado em sua máquina a seguinte ferramenta:
 
 
 ```
----
-## Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
- 
-
----
 ## Anexos
 Documentos para auxiliar no projeto:
-
-
----
 
 
 ---
